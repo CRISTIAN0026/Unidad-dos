@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\bin\Debug\net8.0\sortList.exe
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\bin\Debug\net8.0\sortList.deps.json
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\bin\Debug\net8.0\sortList.runtimeconfig.json
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\bin\Debug\net8.0\sortList.dll
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\bin\Debug\net8.0\sortList.pdb
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\obj\Debug\net8.0\sortList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\obj\Debug\net8.0\sortList.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\obj\Debug\net8.0\sortList.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\obj\Debug\net8.0\sortList.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\obj\Debug\net8.0\sortList.dll
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\obj\Debug\net8.0\refint\sortList.dll
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\obj\Debug\net8.0\sortList.pdb
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\obj\Debug\net8.0\sortList.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Escritorio\7502220014_cristian_paez_estructura_datos_act_2_2024_1\Algoritmos de ordenamiento\Lists\sortList\obj\Debug\net8.0\ref\sortList.dll
